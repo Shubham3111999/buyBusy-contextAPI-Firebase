@@ -1,0 +1,53 @@
+.order-container {
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .OrderList h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #000;
+    text-align: center;
+  }
+  
+  .order-container p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .order-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  .order-table th,
+  .order-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .order-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .order-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .order-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  tfoot td {
+    font-weight: bold;
+    background-color: #f4f4f4;
+  }
+  

@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+}
+
+/* Navbar Container */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px; /* Adjust padding for better spacing */
+    background-color: #fff;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+  }
+  
+  /* Brand Style */
+  .navbar .brand {
+    font-size: 24px; /* Increased font size for the brand */
+    font-weight: bold;
+    color: purple;
+  }
+  
+  /* Navigation Links Container */
+  .navbar .nav-links {
+    display: flex;
+    list-style-type: none;
+    gap: 25px; /* Adjust gap for better spacing */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Individual Navigation Item */
+  .navbar .nav-item {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Space between icon and text */
+    font-size: 18px; /* Increased font size for navigation items */
+    color: purple;
+    text-decoration: none;
+  }
+  
+  .navbar .nav-item a {
+    text-decoration: none;
+    color: purple;
+    font-size: 18px; /* Match font size for links */
+  }
+  
+  .navbar .nav-item a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Hover Effect for Icons */
+  .navbar .nav-item:hover {
+    color: darkviolet;
+    cursor: pointer;
+  }
+  
