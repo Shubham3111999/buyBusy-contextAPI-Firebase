@@ -1,5 +1,5 @@
-# BuyBusy - Redux
-  This is a Coding Ninjas project of BuyBusy e-com website, made using Reactjs, Redux toolkit, react-router-dom. User can create their accout and add/remove products in their cart and also place order. This project saves data inside Firebase Database.
+# BuyBusy - Context API
+  This is a Coding Ninjas project of BuyBusy e-com website, made using Reactjs, context api, react-router-dom. User can create their accout and add/remove products in their cart and also place order. This project saves data inside Firebase Database.
 
 Go Live to [BuyBusy-Redux](https://buybusy-redux-rajxode.netlify.app/)
 
@@ -20,7 +20,7 @@ Go Live to [BuyBusy-Redux](https://buybusy-redux-rajxode.netlify.app/)
 
 # Tool used:
   - Reactjs.
-  - Redux-toolkit.
+  - context api.
   - react-router-dom.
   - react-toastify.
   - JavaScript.
