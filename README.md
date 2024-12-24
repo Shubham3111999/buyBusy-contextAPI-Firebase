@@ -1,7 +1,7 @@
 # BuyBusy - Context API
   This is a Coding Ninjas project of BuyBusy e-com website, made using Reactjs, context api, react-router-dom. User can create their accout and add/remove products in their cart and also place order. This project saves data inside Firebase Database. Implemented authentication using firebase authentication and persisted data using locastorage and API calls to firebase database.
 
-
+✌ Hosted - https://buybusy-contextapi-firebase.onrender.com/
 
 # Installation and Run
   Follow the following steps to run the code on your system.
